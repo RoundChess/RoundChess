@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm passionate about programming and love to explore new technologies and frameworks. Here, you'll find a variety of projects I've worked on using Python, from data science applications to games.
 
 ## 🔭 What I'm Currently Working On
-- **[Hangman]**: Like the classic game, you try to guess a letter before you use up all your trys.
-- **[DiseaseDetector]**: Given a dataset as input, the program will analyze and allow one to draw conclusions. 
+- **[Hangman]**: Like the classic game, you try to guess a letter before you use up all your tries.
+- **[DiseaseDetector]**: Given a dataset as input, the program will analyze and allow one to conclude information. 
 
 ## 🌱 What I'm Learning
 - **TensorFlow**: Gaining experience with TensorFlow 
@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm passionate about programming and love to explo
 - **Email**: [vetri.raj09@gmail.com](mailto:vetri.raj09@gmail.com)
 
 ## ⚡ Fun Facts
-- I am extremely academic focused.
-- I enjoy basketball and football, both watching and playing.
+- I am academically focused.
+- I enjoy watching and playing basketball and football.
 - I love contributing to my community, whether it be through programming or volunteer work.
 
 ## 📊 GitHub Stats
