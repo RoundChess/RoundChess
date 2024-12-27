@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm passionate about programming and love to explore new technologies and frameworks. Here, you'll find a variety of projects I've worked on using Python, from data science applications to games.
 
 ## 🔭 What I'm Currently Working On
-- **[Hangman]**: Like the classic game, you try to guess a letter before you use up all your tries.
-- **[DiseaseDetector]**: Given a dataset as input, the program will analyze and allow one to conclude information. 
+- **Hangman**: Like the classic game, you try to guess a letter before you use up all your tries.
+- **DiseaseDetector**: Given a dataset as input, the program will analyze and allow one to conclude information. 
 
 ## 🌱 What I'm Learning
 - **TensorFlow**: Gaining experience with TensorFlow 
