@@ -1,6 +1,6 @@
 # 👋 About
 
-Hi there, my name is Vetri. Thanks for visiting my GitHub profile. Here are a few things about me. I use GitHub to learn and practice programming by uploading programs. Currently, I'm working on "DiseaseDetector.py," a project that analyzes a disease dataset. At the same time, I'm picking new information about machine learning to improve my projects. My area of expertise lies in Python, NumPy, and Pandas, but I also have experience in Java. On this page, you'll find my GitHub stats and trophies.
+Hi there, my name is Vetri. Thanks for visiting my GitHub profile. Here are a few things about me. I use GitHub to learn and practice programming by uploading programs. I am currently working on "DiseaseDetector.py," a project that analyzes a disease dataset. At the same time, I'm picking new information about machine learning to improve my projects. My area of expertise lies in Python, NumPy, and Pandas, but I also have experience in Java. On this page, you'll find my GitHub stats and trophies.
 
 ## 🔭 What I am Currently Working On
 - **DiseaseDetector**: A program that analyzes a disease dataset.
