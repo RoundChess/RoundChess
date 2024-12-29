@@ -1,24 +1,16 @@
-# Hi there, I'm RoundChess 👋
+# Hi there, my name is Vetri 👋
 
-Welcome to my GitHub profile! I'm passionate about programming and love to explore new technologies and frameworks. Here, you'll find a variety of projects I've worked on using Python, from data science applications to games.
+Thanks for visiting my GitHub profile. Here are a few things about me. I use GitHub to learn and practice programming by uploading programs. Currently, I'm working on "DiseaseDetector.py," a project that analyzes a dataset. At the same time, I'm picking new information about machine learning to improve my projects. My area of expertise lies in Python, NumPy, and Pandas, but I also have experience in Java. On this page, you'll find my GitHub stats and trophies.
 
-## 🔭 What I'm Currently Working On
-- **Hangman**: Like the classic game, you try to guess a letter before you use up all your tries.
-- **DiseaseDetector**: Given a dataset as input, the program will analyze and allow one to conclude information. 
+## 🔭 What I am Currently Working On
+- **DiseaseDetector**: Given a dataset as input, the program will analyze and allow one to conclude information.
+- 
+## 🥇Skills
+- **Python**:
+
 
 ## 🌱 What I'm Learning
 - **TensorFlow**: Gaining experience with TensorFlow 
-
-## 💬 Ask Me About
-- Data Science: Python, Pandas, NumPy, Scikit-learn
-
-## 📫 How to Reach Me
-- **Email**: [vetri.raj09@gmail.com](mailto:vetri.raj09@gmail.com)
-
-## ⚡ Fun Facts
-- I am academically focused.
-- I enjoy watching and playing basketball and football.
-- I love contributing to my community, whether it be through programming or volunteer work.
 
 ## 📊 GitHub Stats
 ![RoundChess's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoundChess&show_icons=true&theme=radical)
