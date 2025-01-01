@@ -25,4 +25,5 @@ Hi there, my name is Vetri. Thanks for visiting my GitHub profile. Here are a fe
 ![RoundChess's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RoundChess&theme=radical)
 
 ## 📫Contact Information
-[LinkedIn](
+[LinkedIn](https://www.linkedin.com/in/vetri-raj)
+
