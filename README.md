@@ -6,9 +6,7 @@ Hi there, my name is Vetri. Thanks for visiting my GitHub profile. Here are a fe
   -   WineTypePredictor: A program that analyzes wine data and predicts its type.
   
 ## 🥇Skills
-- Python: Knowledge of basic syntax components such as:
-      * Data types
-  
+- Python
 - NumPy
 - Pandas
 
