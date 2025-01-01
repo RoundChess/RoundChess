@@ -16,7 +16,7 @@ Hi there, my name is Vetri. Thanks for visiting my GitHub profile. Here are a fe
 - Machine Learning Algorithms
 
 ## 💻Projects
-  - ![DiseaseDetector](https://github.com/RoundChess/Portfolio/blob/main/DiseaseDetector.py): A program that analyzes a disease dataset.
+  - [DiseaseDetector](https://github.com/RoundChess/Portfolio/blob/main/DiseaseDetector.py): A program that analyzes a disease dataset.
 
 ## 📊GitHub Stats 
 ![RoundChess's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoundChess&show_icons=true&theme=radical)
