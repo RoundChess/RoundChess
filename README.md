@@ -3,12 +3,14 @@
 Hi there, my name is Vetri. Thanks for visiting my GitHub profile. Here are a few things about me. I use GitHub to learn and practice programming by uploading programs. I am currently working on "DiseaseDetector.py," a project that analyzes a disease dataset. At the same time, I'm picking new information about machine learning to improve my projects. My area of expertise lies in Python, NumPy, and Pandas, but I also have experience in Java. On this page, you'll find my GitHub stats and trophies.
 
 ## 🔭 What I am Currently Working On
-  -   
+  -   WineTypePredictor: A program that analyzes wine data and predicts its type.
   
 ## 🥇Skills
-- **Python**
-- **NumPy**
-- **Pandas**
+- Python: Knowledge of basic syntax components such as:
+      * Data types
+  
+- NumPy
+- Pandas
 
 ## 🌱What I'm Learning
 - TensorFlow
