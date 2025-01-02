@@ -15,11 +15,13 @@ Hi there, my name is Vetri. Welcome to my GitHub profile. A few things you shoul
     * Statistics
 
 ## 🌱What I'm Learning
-- TensorFlow
-- Keras
-- Linear Algebra
-- Multivariable Calculus
-- Machine Learning Algorithms
+  - _Technical Skills_
+    * TensorFlow
+    * Keras
+    * Machine Learning Algorithms
+  - _Mathematical Skills_ 
+    * Linear Algebra
+    * Multivariable Calculus
 
 ## 💻Projects
   - [DiseaseDetector.py](https://github.com/RoundChess/Portfolio/blob/main/DiseaseDetector.py): A program that analyzes a disease dataset.
