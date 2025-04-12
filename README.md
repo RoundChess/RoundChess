@@ -1,18 +1,17 @@
-# 👋 About
-
-Hi there, my name is Vetri. Welcome to my GitHub profile. A few things you should know about me are: I use GitHub to learn and practice programming by uploading programs, I am currently working on "WineTypePredictor.py," A program that analyzes wine data and predicts its type, and I'm learning new information about machine learning to improve my projects. My area of expertise lies in Python, NumPy, and Pandas, but I also have experience in Java. On this page, you'll find my GitHub stats and trophies.
-
-## 🔭 What I am Currently Working On
-  -   WineTypePredictor.py: A program that analyzes wine data and predicts its type.
+## About Me
+I am a dedicated, open-minded high school student interested in machine learning and healthcare.
   
-## 🥇Skills
-  - _Technical Skills_
-    * Python 
-    * NumPy
-    * Pandas
-  - _Mathematical Skills_
-    * Calculus
-    * Statistics
+## My Skillset
+  # Technical Skills
+    * Proficient in Python 3.1+
+    * Moderately knowledgable in NumPy 2.2.0+
+    * Moderately knowledgable in Pandas 2.2.0+
+    * Basic understanding of Scikit-Learn 1.6+
+    * Basic understanding of a few machine learning algorithms (Linear Regression, Logistic Regression, Naive Bayes, etc.)
+  # Mathematical Skills
+    *  
+    * 
+  # Interpersonal Skills
 
 ## 🌱What I'm Learning
   - _Technical Skills_
