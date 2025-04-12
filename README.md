@@ -11,20 +11,15 @@ I am a dedicated, open-minded high school student interested in machine learning
   - Relevant Mathematical Skills
     * Basic understanding of underlying statistical concepts for machine learning
     * Basic understanding of single-variable calculus and its applications to machine learning.
-  - Interpersonal Skills
-    * 
 
-## 🌱What I'm Learning
-  - Technical Skills
-    * TensorFlow
-    * Keras
-    * Machine Learning Algorithms
-  - Mathematical Skills
-    * Linear Algebra
-    * Multivariable Calculus
-
-## Projects
+## What I am Learning
+  - Technical Skills:
+    * Removing any gaps in my Python 3.1+ knowledge
+    * Solidifying my understanding of NumPy 2.2.0+
+    * Solidifying my understanding of Pandas 2.2.0+
+    * Intermediate and advanced Scikit-Learn 1.6+ tools
+    * Learning more advanced machine learning algorithms and tools (Neural Networks, Support Vector Machines, Random Forests, etc.)
 
 ## My Contact Information
-[My LinkedIn](https://www.linkedin.com/in/vetri-raj)
+  - [Click to visit my LinkedIn](https://www.linkedin.com/in/vetri-raj)
 
