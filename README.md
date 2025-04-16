@@ -1,11 +1,11 @@
 ## About Me
-I am a dedicated, open-minded high school student interested in machine learning and healthcare.
+I am a dedicated, hardworking high school student interested in machine learning and healthcare.
   
 ## My Skillset
   - Technical Skills:
     * Proficient in Python 3.1+
-    * Moderately knowledgable in NumPy 2.2.0+
-    * Moderately knowledgable in Pandas 2.2.0+
+    * Moderately knowledgeable in NumPy 2.2.0+
+    * Moderately knowledgeable in Pandas 2.2.0+
     * Basic understanding of Scikit-Learn 1.6+
     * Basic understanding of a few machine learning algorithms (Linear Regression, Logistic Regression, Naive Bayes, etc.)
   - Relevant Mathematical Skills:
